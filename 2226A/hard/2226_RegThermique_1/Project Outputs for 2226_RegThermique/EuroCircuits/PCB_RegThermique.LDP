@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: K:\ES\PROJETS\SLO\2226_RegThermique\hard\2226_RegThermique_1\PCB_RegThermique.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb_regthermique.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=pcb_regthermique-rectholes.txt|DrillLayers=gtl,gbl

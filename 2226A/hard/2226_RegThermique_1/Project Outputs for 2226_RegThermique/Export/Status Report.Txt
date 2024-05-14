@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [2226_RegThermique.PrjPcb]
+   Generated File[Bill of Materials-2226_RegThermique.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 15:37:22 On 29.03.2023

@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [PCB_RegThermique.PcbDoc]
+   Generated File[PCB_RegThermique.TXT]
+   Generated File[PCB_RegThermique-RectHoles.TXT]
+   Generated File[PCB_RegThermique.LDP]
+   Generated File[PCB_RegThermique.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 09:00:18 On 23.03.2023
